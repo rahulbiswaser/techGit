@@ -5,3 +5,5 @@ git clone url
 
 Git Setup in WIndows:
 https://www.youtube.com/watch?v=J_Clau1bYco
+GIT with STS
+https://www.youtube.com/watch?v=r5C6yXNaSGo
