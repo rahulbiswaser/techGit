@@ -1,0 +1,4 @@
+First App
+git config --global user.name "rahulbiswaser"
+git config --global user.email rhl.biswas@gmail.com
+git clone url
